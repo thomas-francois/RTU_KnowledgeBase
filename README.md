@@ -1,13 +1,13 @@
 # Propositional logic knowledge base
-This repo contains the code for an assignement for the course  **Development Methods of Applied Intelligent Software Systems** at RTU.
+This repo contains the code for an assignment for the course  **Development Methods of Applied Intelligent Software Systems** at RTU.
 
 ## Description
 This project defines a simple knowledge base using propositional logic. It includes rules for determining whether to work from home, drive, or use public transport based on various conditions like rain, traffic, meetings, and strikes.
 
 ## Files
 This project contains two files:
-- `logic.py`: Contains the the logic to define a propositional logic system
-- `KnowledgeBase.py`: Contains the knowledge base and the testing with differents scenarios
+- `logic.py`: Contains the logic to define a propositional logic system
+- `KnowledgeBase.py`: Contains the knowledge base and the testing with different scenarios
 
 ## Installation
 
